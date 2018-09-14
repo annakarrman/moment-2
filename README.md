@@ -24,4 +24,3 @@ De tasks som ingår i mitt system är:
 * default - som då kör igång samtliga tasks. 
 
 För att använda mitt system klonar du mitt repo genom att skriva kommandot "git clone https://github.com/annakarrman/moment2.git" i kommandotolken/terminalen. Sedan öppnar du mappen i t.ex. VSC och därifrån kan du redigera filerna. I kommandotolken/terminalen skriver du sedan "gulp" så körs default-tasken igång och håller koll på eventuella ändringar. 
-## Ta även med om du lagt till något extra.
