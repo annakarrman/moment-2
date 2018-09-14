@@ -1,0 +1,28 @@
+/* header */
+h1 {
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 2em;
+    background-color: rgb(116, 116, 116);
+    width: 100%;
+}
+
+
+.parallax {
+    /* The image used */
+    background-image: url("../images/waves.jpg");
+
+    /* Set a specific height */
+    min-height: 400px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+    border-bottom: 1px solid white;
+}
